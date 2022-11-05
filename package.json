@@ -1,15 +1,15 @@
 {
-  "name": "tesical",
+  "name": "jonitana",
   "version": "1.0.0",
-  "description": "Edit me later",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.16.4"
   }
 }
